@@ -1,0 +1,33 @@
+<svg id="ddplus_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 136.08 144.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #404040;
+      }
+
+      .cls-2 {
+        fill: url(#ddplus_gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="ddplus_gradient" x1="724.5" y1="426.78" x2="704.83" y2="408.65" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e1c058"/>
+      <stop offset="0.32" stop-color="#f4dd7f"/>
+      <stop offset="0.49" stop-color="#ffef97"/>
+      <stop offset="0.72" stop-color="#efd97c"/>
+      <stop offset="1" stop-color="#d9b955"/>
+    </linearGradient>
+  </defs>
+  <title>Diet Dictor Plus Icon</title>
+  <path class="cls-1" d="M751.55,402c0,9.83,0,9.31.08,53.64-7.58,0-40.71-.06-72.38,0-32.62,0-63.69.15-63.69,0V311.23h45.33a90.69,90.69,0,0,1,90.19,81.44A91.81,91.81,0,0,1,751.55,402Z" transform="translate(-615.56 -311.23)"/>
+  <g>
+    <path class="cls-2" d="M717.29,420.56v15.57H706.58V420.56H691.41V409.75h15.08V394.18H717.2v15.57h15.17v10.81Z" transform="translate(-615.56 -311.23)"/>
+    <g>
+      <path class="cls-3" d="M678.18,393.07a21.58,21.58,0,0,0-21.58-21.58H635v43.16H656.6A21.58,21.58,0,0,0,678.18,393.07Zm-32.38,0V382.28h10.8a10.79,10.79,0,0,1,0,21.58H645.8Z" transform="translate(-615.56 -311.23)"/>
+      <path class="cls-3" d="M656.6,349.9H635v10.79H656.6a32.38,32.38,0,0,1,0,64.76H635v10.79H656.6A43.06,43.06,0,0,0,688,422.63l.18-15.91h9.33A43.16,43.16,0,0,0,656.6,349.9Z" transform="translate(-615.56 -311.23)"/>
+    </g>
+  </g>
+</svg>
